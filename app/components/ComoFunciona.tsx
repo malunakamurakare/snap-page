@@ -33,7 +33,7 @@ export default function ComoFunciona() {
               <h3 className="text-base font-medium text-white mb-2">{paso.titulo}</h3>
               <p 
   className="text-sm font-light leading-relaxed"
-  style={{ color: "#fff1de" }}
+  style={{ color: "#ffffff" }}
 >
   {paso.descripcion}
 </p>
