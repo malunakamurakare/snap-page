@@ -31,7 +31,7 @@ export default function ComoFunciona() {
 
               {/* Content */}
               <h3 className="text-base font-medium text-white mb-2">{paso.titulo}</h3>
-              <p className="text-sm font-light text-[#fff1de] leading-relaxed">{paso.descripcion}</p>
+              <p className="text-sm font-light text-[#FFF1DE] leading-relaxed">{paso.descripcion}</p>
             </div>
           ))}
         </div>
